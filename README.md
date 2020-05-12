@@ -12,6 +12,8 @@ https://github.com/pandrew1nik/kotlin/blob/master/LR4/LR4.1.kt
 
 ## LR5.1 and LR5.1.2
 <a href="https://ibb.co/YLd6ncV"><img src="https://i.ibb.co/G5MXYWr/2020-05-12-220255.png" alt="2020-05-12-220255" border="0"></a>
-
+https://github.com/pandrew1nik/kotlin/blob/master/LR%205/LR5.1.kt
+https://github.com/pandrew1nik/kotlin/blob/master/LR%205/LR5.1.2.kt
 ## LR5.2
 <a href="https://ibb.co/Tt0g3qX"><img src="https://i.ibb.co/cQ8rnX5/2020-05-12-220333.png" alt="2020-05-12-220333" border="0"></a>
+https://github.com/pandrew1nik/kotlin/blob/master/LR%205/LR5.2.kt
