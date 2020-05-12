@@ -17,3 +17,7 @@ https://github.com/pandrew1nik/kotlin/blob/master/LR%205/LR5.1.2.kt
 ## LR5.2
 <a href="https://ibb.co/Tt0g3qX"><img src="https://i.ibb.co/cQ8rnX5/2020-05-12-220333.png" alt="2020-05-12-220333" border="0"></a>
 https://github.com/pandrew1nik/kotlin/blob/master/LR%205/LR5.2.kt
+
+## LR7
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VYgbHT9/2020-05-12-222534.png" alt="2020-05-12-222534" border="0"></a>
+https://github.com/pandrew1nik/kotlin/blob/master/LR7/LR7.1.kt
